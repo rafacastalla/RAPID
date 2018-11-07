@@ -1,9 +1,9 @@
 # RAPID
 RAPID is a high-level programming language used to control ABB industrial robots. 
 
-This repository contains a example of RAPID project by steps.
-
 ---------------------------------------------
+
+This repository contains a example of RAPID project by steps.
 
 PANDP -> (Abbreviation) Pick and place
 
